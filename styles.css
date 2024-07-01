@@ -26,6 +26,10 @@ h2 {
     text-align: left;
 }
 
+.banner {
+    background-color: white;
+}
+
 h1, img {
     text-align: center;
 }
