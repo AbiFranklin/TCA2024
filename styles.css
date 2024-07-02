@@ -26,7 +26,9 @@ h2 {
     text-align: left;
 }
 
-
+.jumbotron {
+    align-content: center;
+}
 
 h1, img {
     text-align: center;
